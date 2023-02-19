@@ -9,3 +9,7 @@ function increment() {
 }
 
 let
+
+function hey() {
+    console.log("hey")
+}
